@@ -5,4 +5,4 @@ All the credits goes to [klemmkeil.de](http://www.klemmkeil.de/sql-compact-editi
 for connecting to SQL CE.
 
 Also read the PHP ADOdb documentation.
-[ADOdb - Database Abstraction Layer for PHP](adodb.org/dokuwiki/doku.php?id=v5:userguide:userguide_index)
+[ADOdb - Database Abstraction Layer for PHP](www.adodb.org/dokuwiki/doku.php?id=v5:userguide:userguide_index)
